@@ -1,22 +1,45 @@
 # SwapPowers
 
-Site web pour notre particioation à la webcup 2024.
-Notre sujet : Site de troc de super pouvoirs.
+## Description
+
+SwapPowers est un site de troc de super pouvoirs, développé dans le cadre de la participation à la WebCup 2024 à Mayotte.
 
 ## Table des matières
 
-- [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Contribuer](#contribuer)
-- [Licence](#licence)
+- [Installation](https://chatgpt.com/c/60f22519-af77-4344-a1da-08fef724e776#installation)
+- [Utilisation](https://chatgpt.com/c/60f22519-af77-4344-a1da-08fef724e776#utilisation)
+- [Contribuer](https://chatgpt.com/c/60f22519-af77-4344-a1da-08fef724e776#contribuer)
+- [Licence](https://chatgpt.com/c/60f22519-af77-4344-a1da-08fef724e776#licence)
 
 ## Installation
 
-Indiquez ici les étapes pour installer votre projet et comment le configurer.
+### Installation de local.wp
 
-```bash
-git clone <https://github.com/votreutilisateur/votreprojet.git>
-cd votreprojet
+1. Rendez-vous sur le site [localwp.com](https://localwp.com/) et installez le logiciel.
+2. Créez un nouveau projet WordPress.
+3. Dans ce projet WordPress, installez le plugin "All-in-One WP Migration". Ce plugin vous permettra d'importer un projet WordPress à partir d'un fichier au format `.wpress`.
+
+### Clonage du dépôt GitHub contenant le fichier (wpress) en local
+
+Le fichier a l'extension **.wpress**.
+
 ```
+bash
+Copy code
+git clone https://github.com/bacardeveloper/watoro_ninja.git
+```
+
 ## Utilisation
 
+1. Après avoir cloné le dépôt et importé le fichier `.wpress`, installez-le.
+2. Lors de l'installation, vous serez invité à fournir un mot de passe. Ce mot de passe se trouve dans la description du site [24h.webcup.fr](http://24h.webcup.fr/).
+
+C'est tout ! Vous êtes maintenant prêt à utiliser SwapPowers.
+
+![](C:\Users\bacar\Desktop\24h_webcup\watoro_ninja\assets_\cp1.png)
+
+![cpt2](C:\Users\bacar\Desktop\24h_webcup\watoro_ninja\assets_\cpt2.png)
+
+![cpt3](C:\Users\bacar\Desktop\24h_webcup\watoro_ninja\assets_\cpt3.png)
+
+![cpt4](C:\Users\bacar\Desktop\24h_webcup\watoro_ninja\assets_\cpt4.png)
