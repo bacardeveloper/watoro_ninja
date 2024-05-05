@@ -24,8 +24,6 @@ SwapPowers est un site de troc de super pouvoirs, développé dans le cadre de l
 Le fichier a l'extension **.wpress**.
 
 ```
-bash
-Copy code
 git clone https://github.com/bacardeveloper/watoro_ninja.git
 ```
 
