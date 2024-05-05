@@ -36,10 +36,10 @@ git clone https://github.com/bacardeveloper/watoro_ninja.git
 
 C'est tout ! Vous êtes maintenant prêt à utiliser SwapPowers.
 
-![](assets_\cp1.png)
+![](assets_/cp1.png)
 
-![cpt2](assets_\cpt2.png)
+![cpt2](assets_/cpt2.png)
 
-![cpt3](assets_\cpt3.png)
+![cpt3](assets_/cpt3.png)
 
-![cpt4](assets_\cpt4.png)
+![cpt4](assets_/cpt4.png)
